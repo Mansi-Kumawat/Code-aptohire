@@ -1,0 +1,18 @@
+[submodule "aptohire-root"]
+	path = aptohire-root
+	url = https://github.com/Mansi-Kumawat/aptohire.git
+[submodule "aptohire-student"]
+	path = aptohire-student
+	url = https://github.com/Mansi-Kumawat/aptohire-student.git
+[submodule "aptohire-admin"]
+	path = aptohire-admin
+	url = https://github.com/Mansi-Kumawat/aptohire-admin.git
+[submodule "aptohire-organization"]
+	path = aptohire-organization
+	url = https://github.com/Mansi-Kumawat/aptohire-organization.git
+[submodule "aptohire-university"]
+	path = aptohire-university
+	url = https://github.com/Mansi-Kumawat/aptohire-university.git
+[submodule "aptohire-backend"]
+	path = aptohire-backend
+	url = https://github.com/Mansi-Kumawat/aptohire-backend.git
